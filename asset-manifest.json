@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/movieApp-netlify/static/css/main.ccfd3975.css",
+    "main.js": "/movieApp-netlify/static/js/main.2b5ee33c.js",
+    "static/js/787.b55ca069.chunk.js": "/movieApp-netlify/static/js/787.b55ca069.chunk.js",
+    "index.html": "/movieApp-netlify/index.html",
+    "static/media/search.svg": "/movieApp-netlify/static/media/search.db964b809d21320fb503cb05f4dc8a09.svg",
+    "main.ccfd3975.css.map": "/movieApp-netlify/static/css/main.ccfd3975.css.map",
+    "main.2b5ee33c.js.map": "/movieApp-netlify/static/js/main.2b5ee33c.js.map",
+    "787.b55ca069.chunk.js.map": "/movieApp-netlify/static/js/787.b55ca069.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccfd3975.css",
+    "static/js/main.2b5ee33c.js"
+  ]
+}
