@@ -1,4 +1,5 @@
-![Uploading image.png…]()
+Created a movie app with http api third party to get the movie data.
+![movieapp](https://github.com/jiteshjampa/movieApp-netlify/assets/79923685/6d94261c-5a64-4695-a9dd-efa6a92e96ce)
 
 # Getting Started with Create React App
 
